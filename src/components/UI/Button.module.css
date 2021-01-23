@@ -1,0 +1,25 @@
+.ButtonBlue {
+    background-color: rgb(50, 122, 255);
+    color: white;
+    padding: 10px 20px;
+    font-size: large;
+    border-radius: 5px;
+    border: 0;
+    box-sizing: border-box;
+    box-shadow: 0 2px 3px #ccc;
+    cursor: pointer;
+    margin: 30px;
+}
+
+.ButtonRed {
+    background-color: rgb(255, 50, 94);
+    color: white;
+    padding: 10px 20px;
+    font-size: large;
+    border-radius: 5px;
+    border: 0;
+    box-sizing: border-box;
+    box-shadow: 0 2px 3px #ccc;
+    cursor: pointer;
+    margin: 30px;
+}
